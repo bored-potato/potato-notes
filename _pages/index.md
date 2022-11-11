@@ -11,7 +11,7 @@ permalink: /
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p> -->
 
-This is a small corner of the internet for me to put down some [[notes]] here and there. 
+This is a small corner of the internet for the little photo that is me to put down some [[notes]] here and there. 
 All sorts can go in here, so I hope you might find some parts of it useful. 
 
 <style>
