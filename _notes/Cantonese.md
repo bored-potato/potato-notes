@@ -6,4 +6,4 @@ Cantonese is my mother tongue, but because I've spent way too much time away in 
 
 So it's kind of a to-do list item for me to put together a somewhat useful grammatical guide/wiki for Cantonese. Bit of an ask for someone who isn't even that great at the language, not to mention with no lingustic background. So good luck I guess?
 
-After looking on Google for a bit the best reference book out there on Cantonese grammar is  [Cantonese:  A Comprehensive Grammar](https://www.cuhk.edu.hk/lin/cbrc/CantoneseGrammar/).
+After looking on Google for a bit the best reference book out there on Cantonese grammar is  [Cantonese:  A Comprehensive Grammar](https://www.cuhk.edu.hk/lin/cbrc/CantoneseGrammar/), but it seems like it's not using the jyutping romantisation scheme which is all the rage at the moment. 
